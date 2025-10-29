@@ -1,16 +1,34 @@
-# React + Vite
+## 🌀 React Test Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### 📖 Description
+Petit projet **React** créé pour tester les bases : composants, props, et styles dynamiques.  
+Chaque titre s’affiche avec une couleur différente, démontrant l’utilisation des **props** et du **style inline** dans React.
 
-Currently, two official plugins are available:
+### 🚀 Fonctionnalités
+- Composant réutilisable `<Title />`
+- Passage de texte et couleur en **props**
+- Style dynamique en JavaScript
+- Structure simple et claire pour bien comprendre les bases de React
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### 🧩 Aperçu
+<img width="1623" height="846" alt="image" src="https://github.com/user-attachments/assets/f804bdc5-c340-462f-8e50-5d60a41d563e" />
 
-## React Compiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+*(Ajoute une capture d’écran de ton résultat sous le nom `screenshot.png` dans ton dossier principal si tu veux qu’elle s’affiche ici.)*
 
-## Expanding the ESLint configuration
+### 🛠️ Technologies utilisées
+- React
+- Vite
+- HTML / CSS / JavaScript (ES6)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### ⚙️ Installation et exécution
+
+1. **Cloner le dépôt :**
+    git clone https://github.com/fatimazahratag/react-test-project.git
+   cd react-test-project
+
+2. **Installer les dépendances :**
+     npm install
+
+3. **Lancer le projet :**
+    npm run dev
